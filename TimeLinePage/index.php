@@ -34,11 +34,11 @@ die();
       <h2>January</h2>
     </li>
     <li class="right">
-      <img src="1.jpg" />
+      <a href="https://imgur.com/RC4EZlT"><img src="https://i.imgur.com/RC4EZlT.jpg" title="source: imgur.com" /></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
     </li>
     <li class="left">
-      <img src="2.jpg" />
+      <a href="https://imgur.com/sw2v3Dj"><img src="https://i.imgur.com/sw2v3Dj.jpg" title="source: imgur.com" /></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
     </li>
 
@@ -48,12 +48,12 @@ die();
     </li>
     <div class="zoom">
       <li class="right">
-        <img src="3.jpg" />
+        <a href="https://imgur.com/QkNrOKI"><img src="https://i.imgur.com/QkNrOKI.jpg" title="source: imgur.com" /></a>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
       </li>
     </div>
     <li class="left">
-      <img src="4.jpg" />
+      <a href="https://imgur.com/ecISIUG"><img src="https://i.imgur.com/ecISIUG.jpg" title="source: imgur.com" /></a>
       <p>
         <em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</em> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
     </li>
@@ -63,17 +63,18 @@ die();
       <h2>March</h2>
     </li>
     <li class="right">
-      <img src="11.jpg" />
+      <a href="https://imgur.com/mEYkaAe"><img src="https://i.imgur.com/mEYkaAe.jpg" title="source: imgur.com" /></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
     </li>
     <div class="zoom">
       <li class="left">
-        <img src="6.jpg" />
+        <a href="https://imgur.com/P61bYwI"><img src="https://i.imgur.com/P61bYwI.jpg" title="source: imgur.com" /></a>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
       </li>
     </div>
     <li class="right">
-        <img src="7.jpg" />
+      <a href="https://imgur.com/RC4EZlT"><img src="https://i.imgur.com/RC4EZlT.jpg" title="source: imgur.com" /></a>
+      
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
       </li>
 
@@ -83,13 +84,13 @@ die();
     </li>
     <div class="zoom">
         <li class="right">
-          <img src="8.jpg" />
+          <a href="https://imgur.com/jIGh25u"><img src="https://i.imgur.com/jIGh25u.jpg" title="source: imgur.com" /></a>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
         </li>
       </div>
     <div class="zoom">
       <li class="left">
-        <img src="1.jpg" />
+        <a href="https://imgur.com/3doJsey"><img src="https://i.imgur.com/3doJsey.jpg" title="source: imgur.com" /></a>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
       </li>
     </div>
@@ -100,7 +101,7 @@ die();
   </li>
   <div class="zoom">
       <li class="right">
-          <img src="9.jpg" />
+        <a href="https://imgur.com/pxud5Uu"><img src="https://i.imgur.com/pxud5Uu.jpg" title="source: imgur.com" /></a>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
       </li>
     </div>
@@ -111,7 +112,7 @@ die();
     <h2>June</h2>
   </li>
     <li class="left">
-      <img src="10.jpg" />
+      <a href="https://imgur.com/P61bYwI"><img src="https://i.imgur.com/P61bYwI.jpg" title="source: imgur.com" /></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
     </li>
 
@@ -120,7 +121,7 @@ die();
     <h2>July</h2>
 </li>
     <li class="highlight">
-      <img src="3.jpg" />
+      <a href="https://imgur.com/jIGh25u"><img src="https://i.imgur.com/jIGh25u.jpg" title="source: imgur.com" /></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta. </p>
     </li>
 
@@ -130,7 +131,7 @@ die();
 </li>
 <div class="zoom">
     <li class="right">
-      <img src="12.jpg" />
+      <a href="https://imgur.com/QkNrOKI"><img src="https://i.imgur.com/QkNrOKI.jpg" title="source: imgur.com" /></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
     </li>
   </div>
@@ -140,7 +141,7 @@ die();
     <h2>September</h2>
 </li>
     <li class="left">
-        <img src="11.jpg" />
+      <a href="https://imgur.com/bC89CN6"><img src="https://i.imgur.com/bC89CN6.jpg" title="source: imgur.com" /></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas scelerisque porta.</p>
     </li>
 

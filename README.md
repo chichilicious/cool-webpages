@@ -10,6 +10,6 @@ This repository contains the following :
 
 _______
 
-References:
-[Typing-tool](https://github.com/ashwin-pc/Typing-Tool)
-[Pseudo-Live-Tile-Effect](https://codepen.io/Werty7098/pen/apJdLV)
+## References:
++ [Typing-tool](https://github.com/ashwin-pc/Typing-Tool)
++ [Pseudo-Live-Tile-Effect](https://codepen.io/Werty7098/pen/apJdLV)

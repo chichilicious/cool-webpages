@@ -8,6 +8,9 @@ This repository contains the following :
 +  A page which is a personal diary
 
 ## Timeline
+This is a timeline page which can be created with all the months from January to December. You can use this by adding your own custom images and messeges with respect to reach month.
+This folder has two files, index.php and login.php. Change the name of index.php to index.html and view the page.
+ 
 
 ## SideNav Page
 

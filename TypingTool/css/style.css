@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+  color: white;
+
+}
+
+#main{
+   border: 15px solid #F1DABF; 
+   background-color: #644642;
+}
+
+#main img{
+    width:100%;
+    margin align-self: auto;
+
+}
+
+#main h2{
+    font-size: 18pt;
+    font-family: 'Josefin Sans', sans-serif;
+padding-left: 10px;
+}
+
+#main p{
+    text-align: left;
+    font-size: 15px;
+    padding-left: 10px;
+    color: #5F5D5A;
+    font-family: 'IM Fell Great Primer', serif;
+
+}
+
+#typing-container {
+  position: absolute;
+  top:10%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30pt;
+}

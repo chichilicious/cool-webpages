@@ -1,0 +1,146 @@
+body{
+    background: #F2E3BC;  /* fallback for old browsers */
+
+}
+
+#header{
+    display: block;
+    text-align: center;
+    font-size: 35px;
+    color: #225066;
+    text-shadow: -1px 1px 0px #96BBBB;
+    font-family: 'Bitter', serif;
+    
+}
+
+
+#home h2{
+    display: block;
+    text-align: center;
+    font-size: 47px;
+    font-family: 'Pacifico', cursive;
+    color: #8c7556;
+}
+
+#home img{
+    width: 55%;
+    display: block;
+    margin: auto;
+}
+
+#home p{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    text-shadow: 1px -1px black;
+}
+
+#home1 h2{
+    display: block;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Pacifico', cursive;
+    color: #f34545
+}
+
+#home1 a{
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    color: #f34545
+}
+
+#main h2{
+     display: block;
+    text-align: center;
+    font-size: 47px;
+    font-family: 'Pacifico', cursive;
+    color: #8c7556
+}
+#main p{
+   font-size: 15px;
+    margin: auto;
+    margin-top: 33px;
+    width: 85%;
+    padding: 23px;
+    box-shadow: 9px 6px 16px #7E9181;
+    color: #225066;
+    font-family: 'Merriweather', serif;
+    background: rgb(255, 255, 255)
+
+}
+
+#main p:nth-child(3n){
+    color: #119DA4;
+}
+
+#main p:nth-child(2n){
+color:#92374D
+}
+
+
+
+
+
+
+#main a{
+display: block;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+    color: #8c7556
+}
+
+#music p{
+   font-size: 15px;
+    margin: auto;
+    margin-top: 33px;
+    width: 85%;
+    padding: 23px;
+    box-shadow: 9px 6px 16px #7E9181;
+    color: #225066;
+    font-family: 'Merriweather', serif;
+    background: rgb(255, 255, 255)
+}
+
+#music h2{
+     display: block;
+    text-align: center;
+    font-size: 47px;
+    font-family: 'Pacifico', cursive;
+    color: #8c7556
+}
+
+#music a{
+display: block;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+    color: #8c7556
+}
+
+#music h3{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+    color: #225066;
+}
+
+#music p:nth-child(2n){
+color: #190B28
+}
+
+
+
+
+
+
+
+
+
+
+

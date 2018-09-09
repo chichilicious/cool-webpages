@@ -8,7 +8,7 @@ This repository contains the following :
 +  A page which is a personal diary
 
 ## Timeline
-View the page [here](http://ladywithadarkside.com/github/cool-webpages/TimeLinePage/login.php) and use the password 'open'
+View the page [here](http://ladywithadarkside.com/webpages/TimeLinePage/login.php) and use the password 'open'
  + This is a timeline page which can be created with all the months from January to December. 
  + You can use this by adding your own custom images and messeges with respect to reach month.
  + This folder has two files, index.php and login.php.
@@ -19,8 +19,8 @@ View the page [here](http://ladywithadarkside.com/github/cool-webpages/TimeLineP
 ## Pseudo live tile effect page
 
 ## Page with the Typing Tool
-View the page [here](http://ladywithadarkside.com/github/cool-webpages/TypingTool/)
-This can be used as a Birthday page and maybe you can add custom messeges.
+View the page [here](http://ladywithadarkside.com/webpages/TypingTool/)
++ This can be used as a Birthday page and maybe you can add custom messeges.
 + To add messeges in the typing tool, edit the js file.
 
 ## Diary page

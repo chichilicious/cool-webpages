@@ -27,8 +27,10 @@ View the page [here](http://ladywithadarkside.com/webpages/TypingTool/)
 + This can be used as a Birthday page and maybe you can add custom messeges.
 + To add messeges in the typing tool, edit the js file.
 
-## Diary page
-_______
+## Diary
+View the page [here](http://ladywithadarkside.com/webpages/Diary/)
++ This is a website which can be used for someones Birthday.
++ You can customize this by editing the images and the text.
 
 ## References:
 + [Typing-tool](https://github.com/ashwin-pc/Typing-Tool)

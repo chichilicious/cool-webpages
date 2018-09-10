@@ -23,6 +23,7 @@ View the page [here](http://ladywithadarkside.com/webpages/SideNav/)
 ## Pseudo live tile effect page
 View the page [here](http://ladywithadarkside.com/webpages/PseudoLiveTiles/)
 + This page has a Tile container where you can add any number of images and it gives you the pseudo live tile effect.
++ You can add images/gifs. To add gifs, save the gif as a .jpg file.
 + Customize the paragraph and explore this on your own!
 
 ## Page with the Typing Tool

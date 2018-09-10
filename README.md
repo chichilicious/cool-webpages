@@ -10,7 +10,7 @@ This repository contains the following :
 ## Timeline
 View the page [here](http://ladywithadarkside.com/webpages/TimeLinePage/login.php) and use the password 'open'
  + This is a timeline page which can be created with all the months from January to December. 
- + You can use this by adding your own custom images and messeges with respect to reach month.
+ + You can use this by adding your own custom images and messages with respect to reach month.
  + This folder has two files, index.php and login.php.
  
 

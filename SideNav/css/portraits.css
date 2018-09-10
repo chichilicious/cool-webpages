@@ -1,0 +1,16 @@
+.image-viewer {
+
+}
+img{
+    padding: 15px;
+    margin: auto;
+    width: 92%;
+    padding-left: 40px;
+}
+.image-viewer > img {
+    width: 49%;
+    margin: auto;
+    padding: 18px;
+    box-sizing: border-box;
+    border-radius: 28px;
+}

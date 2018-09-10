@@ -15,6 +15,10 @@ View the page [here](http://ladywithadarkside.com/webpages/TimeLinePage/login.ph
  
 
 ## SideNav Page
+View the page [here](http://ladywithadarkside.com/webpages/SideNav/)
++ This page has a side navigation bar, using which you can navigate and redirect to different pages.
++ In the first page a video can be embedded. Make sure to add the <embed> link from youtube/other source.
++ Pictures and notes can be customized.
 
 ## Pseudo live tile effect page
 

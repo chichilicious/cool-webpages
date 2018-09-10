@@ -21,6 +21,9 @@ View the page [here](http://ladywithadarkside.com/webpages/SideNav/)
 + Pictures and notes can be customized.
 
 ## Pseudo live tile effect page
+View the page [here](http://ladywithadarkside.com/webpages/PseudoLiveTile/)
++ This page has a Tile container where you can add any number of images and it gives you the pseudo live tile effect.
++ Customize the paragraph and explore this on your own!
 
 ## Page with the Typing Tool
 View the page [here](http://ladywithadarkside.com/webpages/TypingTool/)
